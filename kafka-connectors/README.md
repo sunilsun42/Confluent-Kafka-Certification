@@ -16,7 +16,7 @@
 
 * A single process runs your connectors and tasks.
 * Configration is bundled with your process
-* Very easy to started with, useful for development and testing.
+* Very easy to start with, useful for development and testing.
 * Not fault tolerant, no scalability, hard to monitor
 
 **What is Distributed mode**
